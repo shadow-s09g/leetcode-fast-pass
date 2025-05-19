@@ -172,6 +172,8 @@ public int longestMountain(int[] A) {
 
 ## 3.案例: 最小差
 
+[LeetCode 16.06](https://leetcode.cn/problems/smallest-difference-lcci/)
+
 > 给定两个数组，找到一对数字（两个数组各取一个），他们的差值最小。返回这两个数组。
 > 
 > 输入:
@@ -215,6 +217,8 @@ public int smallestDifference(int[] arr1, int[] arr2) {
 由于使用了内置的排序方法，所以消耗了O(n logn)的时间复杂度
 
 ## 4.案例: 最短无序连续子数组
+
+leetcode 581
 
 > 给定一个整数数组，找到一个连续子数组。按升序对这个子数组进行排序，会使整个数组呈现升序。返回最短子数组的长度。
 > 
