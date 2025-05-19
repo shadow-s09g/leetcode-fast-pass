@@ -1,4 +1,5 @@
 # just-the-docs-template
+https://shadow-s09g.github.io/leetcode-fast-pass/
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 

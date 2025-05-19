@@ -218,7 +218,7 @@ public int smallestDifference(int[] arr1, int[] arr2) {
 
 ## 4.案例: 最短无序连续子数组
 
-leetcode 581
+[leetcode 581](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/)
 
 > 给定一个整数数组，找到一个连续子数组。按升序对这个子数组进行排序，会使整个数组呈现升序。返回最短子数组的长度。
 > 
